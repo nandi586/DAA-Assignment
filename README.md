@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nandi586/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/nandi586/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/nandi586/DAA-Assignment/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/nandi586/DAA-Assignment/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandi586/DAA-Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/nandi586/DAA-Assignment/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/nandi586/DAA-Assignment/tree/master/0912-sort-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/nandi586/DAA-Assignment/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nandi586/DAA-Assignment/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/nandi586/DAA-Assignment/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nandi586/DAA-Assignment/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nandi586/DAA-Assignment/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nandi586/DAA-Assignment/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nandi586/DAA-Assignment/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
